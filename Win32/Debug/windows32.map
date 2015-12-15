@@ -1,0 +1,22 @@
+ windows32
+
+ Timestamp is 54e24962 (Mon Feb 16 13:47:46 2015)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0000100dH .text$mn                CODE
+ 0002:00000000 00001028H STACK_TEXT              CODE
+ 0003:00000000 00000143H .rdata                  DATA
+ 0003:00000143 00000000H .edata                  DATA
+ 0003:00000144 0000018bH .rdata$debug            DATA
+ 0004:00000000 00000113H .data                   DATA
+ 0005:00000000 00000169H .rsrc$01                DATA
+ 0005:00000170 000002ccH .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base       Lib:Object
+
+ 0000:00000000       ___guard_fids_count        00000000     <absolute>
+ 0000:00000000       ___guard_fids_table        00000000     <absolute>
+ 0000:00000000       ___guard_flags             00000000     <absolute>
+ 0001:00000010       main                       00401010 f   example.obj

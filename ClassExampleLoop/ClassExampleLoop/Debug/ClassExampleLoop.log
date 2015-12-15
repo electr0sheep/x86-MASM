@@ -1,0 +1,14 @@
+﻿Build started 4/20/2015 3:22:09 PM.
+     1>Project "C:\Users\MacBook Air\Google Drive\Assembly\ClassExampleLoop\ClassExampleLoop\ClassExampleLoop.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Source.asm...
+         cmd.exe /C "C:\Users\MacBook Air\AppData\Local\Temp\tmp404c98785a484b1c861df224f61e1d9a.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MacBook Air\Google Drive\Assembly\ClassExampleLoop\Debug\ClassExampleLoop.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\MacBook Air\Google Drive\Assembly\ClassExampleLoop\Debug\ClassExampleLoop.pdb" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MacBook Air\Google Drive\Assembly\ClassExampleLoop\Debug\ClassExampleLoop.lib" /MACHINE:X86 Debug\Source.obj
+         ClassExampleLoop.vcxproj -> C:\Users\MacBook Air\Google Drive\Assembly\ClassExampleLoop\Debug\ClassExampleLoop.exe
+     1>Done Building Project "C:\Users\MacBook Air\Google Drive\Assembly\ClassExampleLoop\ClassExampleLoop\ClassExampleLoop.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.10

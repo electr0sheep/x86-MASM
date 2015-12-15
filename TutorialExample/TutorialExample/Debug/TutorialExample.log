@@ -1,0 +1,13 @@
+﻿Build started 4/8/2015 10:26:49 AM.
+     1>Project "C:\Users\MacBook Air\Google Drive\Assembly\TutorialExample\TutorialExample\TutorialExample.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Source.asm...
+         cmd.exe /C "C:\Users\MacBook Air\AppData\Local\Temp\tmp09719794aabd4d42b4ba2133c497683c.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm
+     1>Source.asm(7): fatal error A1000: cannot open file : kernel32.inc
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
+     1>Done Building Project "C:\Users\MacBook Air\Google Drive\Assembly\TutorialExample\TutorialExample\TutorialExample.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21

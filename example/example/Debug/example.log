@@ -1,0 +1,61 @@
+﻿Build started 5/4/2015 6:12:27 PM.
+     1>Project "C:\Users\MacBook Air\Google Drive\Assembly\example\example\example.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Source.asm...
+         cmd.exe /C "C:\Users\MacBook Air\AppData\Local\Temp\tmp4f69bfcd3d7843b9a9cb2a75de2ceebe.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm
+     1>: error A2008 : syntax error : /
+     1>: error A2008 : syntax error : io
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : Copyright
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : file
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : *
+     1>: error A2008 : syntax error : *
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>MASM : error A2044: invalid character in file
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
+     1>Done Building Project "C:\Users\MacBook Air\Google Drive\Assembly\example\example\example.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.72

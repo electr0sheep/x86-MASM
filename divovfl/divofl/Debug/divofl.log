@@ -1,0 +1,13 @@
+﻿Build started 3/13/2015 7:58:21 PM.
+     1>Project "C:\Users\MacBook Air\Google Drive\Assembly\divovfl\divofl\divofl.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Source.asm...
+         cmd.exe /C "C:\Users\MacBook Air\AppData\Local\Temp\tmpbc04a516e51e4484b4c6ee629e5c53c9.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm
+     1>Source.asm(17): error A2006: undefined symbol : $dividend
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.
+     1>Done Building Project "C:\Users\MacBook Air\Google Drive\Assembly\divovfl\divofl\divofl.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.18

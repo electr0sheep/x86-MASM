@@ -1,0 +1,14 @@
+﻿Build started 3/11/2015 10:38:43 AM.
+     1>Project "C:\Users\MacBook Air\Google Drive\Assembly\ClassProject\ClassProject\ClassProject.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\MacBook Air\AppData\Local\Temp\tmp883b239a79684ab58ac80a093395467a.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(13): error A2008: syntax error : ,
+     1>main.asm(19): fatal error A1010: unmatched block nesting : main
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
+     1>Done Building Project "C:\Users\MacBook Air\Google Drive\Assembly\ClassProject\ClassProject\ClassProject.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21
